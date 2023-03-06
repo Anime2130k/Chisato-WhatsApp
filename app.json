@@ -1,5 +1,5 @@
 {
-  "name": "Chisato-WhatsApp",
+  "name": "NEZUKO KAMADO",
   "description": "A WhatsApp Bot written in TypeScript using Baileys.",
   "keywords": [
     "bot",
@@ -7,9 +7,9 @@
     "whatsapp-bot",
     "whatsapp-anime-bot"
   ],
-  "logo": "https://raw.githubusercontent.com/AliAryanTech/Chisato-WhatsApp/master/assets/images/chisato.png",
-  "website": "https://github.com/AliAryanTech/Chisato-WhatsApp#readme",
-  "repository": "https://github.com/AliAryanTech/Chisato-WhatsApp.git",
+  "logo": "https://github.com/Khopri434/yihkk",
+  "website": "https://github.com/Khopri434/yihkk",
+  "repository": "https://github.com/Khopri434/yihkk",
   "success_url": "/",
   "env": {
     "BOT_NAME": {
